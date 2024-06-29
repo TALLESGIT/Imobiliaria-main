@@ -19,7 +19,7 @@ nav {
     align-items: center;
     justify-content: center;
     gap: 20px;
-    font-size: 18px;
+    font-size: 33px;
    
     margin: 10px auto;
     
@@ -35,7 +35,7 @@ nav {
 }
 
 .paragrafo-topo a {
-    color: #fff;
+    color: blue;
     position: relative;
     text-align: center;
     margin-top: 15px;
@@ -50,7 +50,7 @@ a::after {
     content: "";
     width: 0;
     height: 2px;
-    background-color: #fff;
+    background-color: blue;
     position: absolute;
     bottom: 2px;
     left: 0;
