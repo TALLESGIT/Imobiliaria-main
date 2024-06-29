@@ -95,6 +95,12 @@ h2 {
     margin-top: 0;
 }
 
+.paragrafo-sobre {
+    font-size: 30px;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
 .imagem {
     width: 450px;
 }
@@ -125,7 +131,7 @@ h3 {
     color: #ffffff;
     line-height: 42px;
     width: 700px;
-    font-size: 22px;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -143,6 +149,12 @@ h3 {
     line-height: 42px;
     text-align: left;
     color: #fff;
+}
+
+.paragrafo {
+    font-size: 30px;
+    margin-left: 5em;
+    margin-right: 5em;
 }
 
 /* ===  6ª secao === */
